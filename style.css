@@ -155,6 +155,7 @@ section {
   padding: 1rem;
 }
 
+.padded-b-0 {padding-bottom: 0; }
 .margin-t-2 { margin-top: 2rem; }
 
 .mini-banner,
